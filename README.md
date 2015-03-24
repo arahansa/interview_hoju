@@ -34,6 +34,7 @@ D) Later that night the Xs, who are responsible for making the world look pretty
  나중에 그날 밤 X들 (섬을 이쁘게 만드는 일을 함) 이 당신에게 자기들은 한번도 Q로 취급받은 적이 없다고 한다. 왜냐하면 Q는 Z랑 똑같기 때문에. 이러면 어떻게 하겠나?
  
  =======================
+ 
  이런 문제였는데 마지막 D가 이해가 안됩니다. 
  Z와 Q가 same 하다는 말이었는데,
  Z로 간주될 수 있는 사람들은 일단 A이고
